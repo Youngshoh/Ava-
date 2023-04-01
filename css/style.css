@@ -1,0 +1,56 @@
+@import url(font.css);
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #E5E5E5;
+}
+
+.text_1{
+    width: 455px;
+    font-size: 40px;
+
+}
+
+.input1{
+    width: 218px;
+}
+
+.main__block1 p{
+    width: 488px;
+    font-size: 15px;
+}
+
+.text-2{
+    width: 201px;
+}
+
+.text{
+    width: 195px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.text_3{
+    font-size: 29px;
+}
+
+.text_2{
+    font-size: 16px;
+}
+
+.main__block2{
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
